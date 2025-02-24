@@ -2,3 +2,11 @@ site_name: Readify
 theme: 
   name: material
   favicon: assets/yanan.png
+  # palette:
+  #   primary: blue grey
+  #   accent: light blue
+nav:
+   - Home: index.md
+   - Start: start.md
+   - File handlers: file_handlers.md
+   - Downloaders: downloaders.md
